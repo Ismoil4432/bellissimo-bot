@@ -1,0 +1,26 @@
+{
+  "name": "bellissimo-bot",
+  "version": "1.0.0",
+  "description": "This is a clone of Bellissimo bot. You can register with your phone number, order food, find some information about the company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ismoil4432/bellissimo-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ismoil4432/bellissimo-bot/issues"
+  },
+  "homepage": "https://github.com/Ismoil4432/bellissimo-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "telegraf": "^4.11.2",
+    "uuid": "^9.0.0"
+  }
+}
